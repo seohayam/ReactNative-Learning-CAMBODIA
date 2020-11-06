@@ -13,14 +13,24 @@
     "updates": {
       "fallbackToCacheTimeout": 0
     },
-    "assetBundlePatterns": [
-      "**/*"
-    ],
+    "assetBundlePatterns": ["**/*"],
     "ios": {
       "supportsTablet": true
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "firebase": {
+        "apiKey": "AIzaSyDEVQKooNgFJI4yu5n0zrTR0eu-RaE3Txg",
+        "authDomain": "learning-55e10.firebaseapp.com",
+        "databaseURL": "https://learning-55e10.firebaseio.com",
+        "projectId": "learning-55e10",
+        "storageBucket": "learning-55e10.appspot.com",
+        "messagingSenderId": "1006395044017",
+        "appId": "1:1006395044017:web:7aa5a6436978d147207290",
+        "measurementId": "G-TRVK870L81"
+      }
     }
   }
 }
